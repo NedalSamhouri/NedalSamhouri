@@ -1,38 +1,50 @@
-# 👋 Hi, I'm Nedal Samhouri
+# Nedal Samhouri
 
-### 💻 Full-Stack Developer | SoftWare Engineer
+> **Aspiring Software Engineer | Java Backend Developer**
 
-I'm passionate about building modern, fast, and user-friendly applications. I enjoy learning new technologies, solving challenging problems, and creating projects that make an impact.
+Software engineering student focused on Java, object-oriented programming, and backend development.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
+Java • C# • TypeScript
 
-* Java  
-* React
-* HTML5
-* CSS3
-* Java Scrpit
-
-**Databases**
-
-* PostgreSQL
-* MySQL
+**Frameworks & Databases**
+Spring Boot • Hibernate • MySQL
 
 **Tools**
-
-* Git
-* GitHub
-* VS Code
+Git • GitHub • Jira • Postman • Cursor • Azure (AZ-900)
 
 ---
 
-## 🌎 Connect With Me
+## Featured Project
 
-Email: nedalsamhouri20@yahoo.com
+### Leave Management System API
+
+Backend REST API built with **Java**, **Spring Boot**, **Hibernate**, and **MySQL**.
+
+* Relational database design
+* RESTful APIs
+* JPA/Hibernate entity mapping
+* CRUD operations
+* Tested with Postman
+
+> Focused on clean architecture and scalable backend development.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Current Focus
+
+* GitHub Foundations Certification
+* Java & Spring Boot
+* Scalable backend systems
+* Azure Fundamentals (AZ-900)
+
+---
+
+## Connect
+
+* Email: nedalsamhouri20@yahoo.com
+* Phone: 0789662218
