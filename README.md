@@ -9,7 +9,7 @@ Software engineering student focused on Java, object-oriented programming, and b
 ## Tech Stack
 
 **Languages**
-Java • C# • TypeScript
+Java • C# 
 
 **Frameworks & Databases**
 Spring Boot • Hibernate • MySQL
