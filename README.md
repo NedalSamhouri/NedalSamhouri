@@ -9,10 +9,13 @@ Software engineering student focused on Java, object-oriented programming, and b
 ## Tech Stack
 
 **Languages**
-Java • C# 
+Java • C# • HTML • CSS • React
 
-**Frameworks & Databases**
-Spring Boot • Hibernate • MySQL
+**Frameworks**
+Spring Boot
+
+**Databases**
+SQL • MySQL • PostgreSQL
 
 **Tools**
 Git • GitHub • Jira • Postman • Cursor • Azure (AZ-900)
@@ -25,13 +28,13 @@ Git • GitHub • Jira • Postman • Cursor • Azure (AZ-900)
 
 Backend REST API built with **Java**, **Spring Boot**, **Hibernate**, and **MySQL**.
 
+* RESTful API development
 * Relational database design
-* RESTful APIs
 * JPA/Hibernate entity mapping
 * CRUD operations
 * Tested with Postman
 
-> Focused on clean architecture and scalable backend development.
+> Focused on clean, scalable backend development.
 
 ---
 
@@ -46,5 +49,7 @@ Backend REST API built with **Java**, **Spring Boot**, **Hibernate**, and **MySQ
 
 ## Connect
 
-* Email: nedalsamhouri20@yahoo.com
-* Phone: 0789662218
+* 📧 **Email:** [nedalsamhouri20@yahoo.com]
+* 📱 **Phone:** +962 78 966 2218
+* 💼 **LinkedIn:** https://linkedin.com/in/your-profile
+* 💻 **GitHub:** https://github.com/your-username
